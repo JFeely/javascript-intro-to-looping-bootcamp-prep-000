@@ -19,17 +19,12 @@ function whileLoop(n) {
   }
   
   function doWhileLoop(array) {
-    function incrementVariable(){
+  
+  function incrementVariable(){
       i = i + 1;
       return i;
-    }
- function incrementVariable() {
-  i = i + 1;
-  return i;
-
-function incrementVariable() {
-  i = i + 1;
-  return i;
+      
+      
   function maybeTrue() {
     return Math.random() >= 0.5
   }
